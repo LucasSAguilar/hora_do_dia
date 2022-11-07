@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,600;1,500;1,700&family=Roboto+Mono:ital,wght@1,700&display=swap');
+* {
+
+outline: 0px;
+padding: 0;
+margin: 0;
+font-family: 'Poppins', sans-serif;
+
+}
+
+body {
+height: 100vh;
+background-image: linear-gradient(rgb(87, 87, 236), rgb(110, 186, 189));
+
+
+}
+
+#titulo {
+    color: white;
+    text-align: center;
+}
+
+#container {
+color: black;
+background-color: white;
+width: 400px;
+text-align: center;
+border-radius: 5px;
+opacity: 80%;
+box-shadow: 5px 5px 10px black;
+margin: auto;
+margin-top: 5px;
+padding: 20px;
+}
+
+#horas {
+
+margin-bottom: 20px;
+
+}
+
+#creditos {
+    font-size: 10px;
+    color: white;
+text-align: center;
+margin-top: 20px;
+
+}
+
+#objetos {
+
+margin: auto;
+
+}
